@@ -1,0 +1,29 @@
+[ {
+  "nome" : "Chocolate Garoto",
+  "descricao" : "Delicioso chocolate brasileiro, perfeito para adoçar seus melhores momentos.",
+  "valor" : 15.0,
+  "quantidade" : 120,
+  "codigo" : "789456123",
+  "validade" : "12/02/2026"
+}, {
+  "nome" : "Arroz Camil",
+  "descricao" : "Arroz de alta qualidade, presença garantida nas refeições da sua família.",
+  "valor" : 15.0,
+  "quantidade" : 714,
+  "codigo" : "789456125",
+  "validade" : "12/02/2025"
+}, {
+  "nome" : "Sabonete Dove",
+  "descricao" : "Sabonete suave que hidrata e deixa sua pele macia e perfumada o dia todo.",
+  "valor" : 7.5,
+  "quantidade" : 538,
+  "codigo" : "789132456",
+  "validade" : "12/04/2028"
+}, {
+  "nome" : "Pneu Prelli",
+  "descricao" : "Pneu Pirelli de alta performance, oferecendo máxima segurança, durabilidade e excelente aderência em todas as condições de pista, ideal para quem busca qualidade e confiança ao dirigir.",
+  "valor" : 35.98,
+  "quantidade" : 425,
+  "codigo" : "789135426",
+  "validade" : "PRODUTO SEM VALIDADE"
+} ]
